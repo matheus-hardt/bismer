@@ -12,9 +12,9 @@ insult(thou = TRUE, sentence = FALSE, exclaim = TRUE)
 
 gehornian(thou = TRUE, sentence = FALSE, exclaim = TRUE)
 
-híenan(thou = TRUE, sentence = FALSE, exclaim = TRUE)
+hienan(thou = TRUE, sentence = FALSE, exclaim = TRUE)
 
-misgrétan(thou = TRUE, sentence = FALSE, exclaim = TRUE)
+misgretan(thou = TRUE, sentence = FALSE, exclaim = TRUE)
 
 scendan(thou = TRUE, sentence = FALSE, exclaim = TRUE)
 }
