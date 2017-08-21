@@ -68,17 +68,17 @@ insult <- function(thou=TRUE, sentence=FALSE, exclaim=TRUE) {
 
 #' @rdname insult
 #' @export
-gehornian <- insult
+#gehornian <- insult
 
 
 #' @rdname insult
 #' @export
-hienan <- insult
+#hienan <- insult
 
 #' @rdname insult
 #' @export
-misgretan <- insult
+#misgretan <- insult
 
 #' @rdname insult
 #' @export
-scendan <- insult
+#scendan <- insult
