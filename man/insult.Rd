@@ -3,8 +3,8 @@
 \name{insult}
 \alias{insult}
 \alias{gehornian}
-\alias{híenan}
-\alias{misgrétan}
+\alias{hienan}
+\alias{misgretan}
 \alias{scendan}
 \title{Generate a random Shakespearean insult}
 \usage{
